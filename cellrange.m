@@ -25,7 +25,7 @@ function cellrange = cellrange(startcol,startrow,len_row,len_col)
 % All four input arguments are required as shown in following example.
 %
 % cellrange(2,3,5,6)
-% ans = B3:F6
+% ans = B3:F8
 %
 % The first cell of the table is expected in the column range A-Z.
 % The length of a row cannot exceed 1024 allowing the last column
