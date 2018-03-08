@@ -15,7 +15,7 @@
 %
 %
 function P2_tail = fisherextest(a,b,c,d)
-% [Pneg_tail,Ppos_tail,P2_tail]=fisherextest(a,b,c,d)
+% P2_tail=fisherextest(a,b,c,d)
 %
 % This function performs the Fisher exact probability test for a table of 
 % frequencies, which correspond to a (2x2) contigency table. Calling the
